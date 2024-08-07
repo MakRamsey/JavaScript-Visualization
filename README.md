@@ -8,4 +8,6 @@ Welcome to the "Leaflet-Challenge" repository. This challenge utilized JSON/geoJ
 
 ---'static': Repository containing two directories ('js' and 'css') which contian the main JavaScript and CSS code for rendering ('style.css' and 'logic.js')
 
+Please note: The visualization can be viewed via a GitHub page at: https://makramsey.github.io/Leaflet-Challenge
+
 Cheers!
